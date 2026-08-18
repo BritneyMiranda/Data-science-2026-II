@@ -16,4 +16,5 @@ This is a course in data science
 3. Urbekistán
 4. Argentina
 5. Chile
-6. Argentina
+6. Costa rica
+7. Estados Unidos
