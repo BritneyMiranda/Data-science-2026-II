@@ -9,3 +9,12 @@ This is a course in data science
 2. Ratatoille
 3. La isl perdida
 # Quiero comer té.
+
+# Countries
+1. Perú
+2. Alemania
+3. Urbekistán
+4. Argentina
+5. Chile
+6. Costa rica
+7. Estados Unidos
